@@ -1,0 +1,5 @@
+== Version 1.1 May 28,2012 ==>
+
+* Added posts_number -1 to get_posts function in functions/calendar.php to prevent any conflicts.
+* Fixed small slider bug with image size
+* Added slider support to regular pages with sidebars
